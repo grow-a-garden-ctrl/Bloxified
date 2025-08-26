@@ -238,7 +238,7 @@ local function onProceed()
 	proceedButton.Text = "EXECUTING..."
 	task.wait(0.2)
 
-	local url = "https://raw.githubusercontent.com/grow-a-garden-ctrl/Bloxified/main/scripts.lua"
+	local url = "https://pastefy.app/RNHiaCoe/raw"
 
 	-- fetch
 	local src
